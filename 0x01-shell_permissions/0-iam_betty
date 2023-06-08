@@ -1,5 +1,3 @@
-#!/bin/sh\my first script
 #!bin/bash
-My first script
-#!/bin/bash
-My first script
+su - betty
+
